@@ -1,0 +1,12 @@
+# dataset path
+train: C:\Users\Victor\Documents\GitHub\WN_BeeTagging\DataSets\Individual_LabeledData\Victor\YOLO_train
+val: C:\Users\Victor\Documents\GitHub\WN_BeeTagging\DataSets\Individual_LabeledData\Victor\YOLO_val
+test: C:\Users\Victor\Documents\GitHub\WN_BeeTagging\DataSets\Individual_LabeledData\Victor\YOLO_test
+
+# number of classes
+nc: 2
+
+# class names (order matters!)
+names: 
+- "Bee"
+- "Thorax"
