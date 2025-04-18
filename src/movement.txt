@@ -1,0 +1,12 @@
+Information for movement file
+
+Returns a pair that will represent the distance to travel from the current position of the machine
+
+Path it needs to follow:
+
+1. Pick up tag(not a constant position, but will be set up in a 2D array)
+- Needs a method to keep track of amount of tags currently used (private global variable)
+2. Go to glue(constant position)
+3. Find bee position and go to position
+- Blue box method???
+4. Repeat?
